@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋 I´m Eduardo Olay</h1>
-    <img  src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="200"/>
+    <img  src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G" width="200"/>
     <h2 align="center">A passionate programmer from México, </h2>
     <h3 align="center">#️⃣I´m currently learning some front-end frameworks 🎨</h3>
     <h3 align="center">#️⃣ I ❤️ to learn new things,collaborate with other people and make things happen through programming</h3>
@@ -43,6 +43,7 @@
       </div>
 </div>
 ---
+
 ### 📊 My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardoOlay&theme=blood-dark)](https://git.io/streak-stats)
