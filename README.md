@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋 I´m Eduardo Olay</h1>
-    <img  src="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G" width="200"/>
+    <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlucnZscTFlbjVsN3pjeDg4aWJ4dnB3cWU0c2NqaDk5d2xpd3ZqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy-downsized-large.gifG" width="200"/>
     <h2 align="center">A passionate programmer from México, </h2>
     <h3 align="center">#️⃣I´m currently learning some front-end frameworks 🎨</h3>
     <h3 align="center">#️⃣ I ❤️ to learn new things,collaborate with other people and make things happen through programming</h3>
